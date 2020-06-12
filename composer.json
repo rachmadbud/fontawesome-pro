@@ -1,0 +1,13 @@
+{
+    "name": "vendor/fontawesome",
+    "description": "fonstawesome-pro for you",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrbudbud",
+            "email": "rachmad.16421044@student.ubl.ac.id"
+        }
+    ],
+    "require": {}
+}
