@@ -9,12 +9,92 @@
 - 26/04/2019 Fontawesome Pro [5.5.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.5.0)
 - 03/08/2018 Fontawesome Pro [5.0.13](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.0.13)
 
-# Download
-- Click in <code>releases</code> to download the font
+<h1></h1>
 
-# Credits
-- By Nguyen Dang Hau
+## Installation
 
-# Usage
+Via Composer
+
+``` bash
+$ composer require cv-bud/fa-pro
+```
+
+Via Git Bash
+
+``` bash
+$ git clone https://github.com/mrbudbud/fontawesome-pro.git
+```
+
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+```text
+└── dist/
+    ├── css/
+    │   ├── all.css
+    │   ├── all.mi.css
+    │   ├── brands.css
+    │   ├── brands.min.css
+    │   ├── duotone.css
+    │   ├── duotone.min.css
+    │   ├── fontawesome.css
+    │   ├── fontawesome.min.css
+    │   ├── light.css
+    │   ├── light.min.css
+    │   ├── regular.css
+    │   ├── regular.min.css
+    │   ├── solid.css
+    │   ├── solid.min.css
+    │   ├── svg-with-js.css
+    │   ├── svg-with-js.min.css
+    │   ├── v4-shims.css
+    │   └── v4-shims.min.css
+    └── js/
+        ├── all.js
+        ├── all.min.js
+        ├── brands.js
+        ├── brands.min.js
+        ├── conflict-detection.js
+        ├── conflict-detection.min.js
+        ├── duotone.js
+        ├── duotone.min.js
+        ├── fontawesome.js
+        ├── fontawesome.min.js
+        ├── light.js
+        ├── light.min.js
+        ├── regular.js
+        ├── regular.min.js
+        ├── solid.js
+        ├── solid.min.js
+        └── v4-shims.js
+        └── v4-shims.min.js
+```
+
+## Usage
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/all.min.css">
+  <title>Document</title>
+</head>
+<body>
+  
+  
+  <script src="js/all.min.js"></script>
+</body>
+</html>
+```
+
+
+<h1>
+<p align="center">
+Credits by
+<p align="center"><img src="https://1.bp.blogspot.com/-VgeE1MjanrE/XuFF2iuufxI/AAAAAAAAOIE/DPUU6oIUpL4purpAYrtqh0zLLmu4OFxSwCLcBGAsYHQ/s320/IMG-20200516-WA0007.jpg" width="190" height="180"></p>
+
+# Documentation
 - Follow in official website: [https://fontawesome.com/](https://fontawesome.com/)
-- Follow in official githup: [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
