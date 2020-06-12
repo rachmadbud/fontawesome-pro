@@ -1,4 +1,4 @@
-<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-pro.svg" alt="Font Awesome 5 Free" width="900"></h1>
+<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-pro.svg" alt="Font Awesome 5 Free" width="200"></h1>
 
 ## Installation
 
