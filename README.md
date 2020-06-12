@@ -1,15 +1,4 @@
-# Fontawesome Pro All version
-- 2/4/2020 Fontawesome Pro [5.13.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.13.0)
-- ~~2/4/2020 Fontawesome Pro [5.12.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.1)~~ sorry for miss this version
-- 30/12/2019 Fontawesome Pro [5.12.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.0)
-- 11/10/2019 Fontawesome Pro [5.11.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.11.2)
-- 25/09/2019 Fontawesome Pro [5.11.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.11.1)
-- 10/09/2019 Fontawesome Pro [5.10.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.10.2)
-- 12/05/2019 Fontawesome Pro [5.8.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.8.2)
-- 26/04/2019 Fontawesome Pro [5.5.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.5.0)
-- 03/08/2018 Fontawesome Pro [5.0.13](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.0.13)
-
-<h1></h1>
+<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-pro.svg" alt="Font Awesome 5 Free" width="900"></h1>
 
 ## Installation
 
@@ -70,6 +59,17 @@ Within the download you'll find the following directories and files, logically g
         └── v4-shims.js
         └── v4-shims.min.js
 ```
+
+# Fontawesome Pro All version
+- 2/4/2020 Fontawesome Pro [5.13.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.13.0)
+- ~~2/4/2020 Fontawesome Pro [5.12.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.1)~~ sorry for miss this version
+- 30/12/2019 Fontawesome Pro [5.12.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.0)
+- 11/10/2019 Fontawesome Pro [5.11.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.11.2)
+- 25/09/2019 Fontawesome Pro [5.11.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.11.1)
+- 10/09/2019 Fontawesome Pro [5.10.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.10.2)
+- 12/05/2019 Fontawesome Pro [5.8.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.8.2)
+- 26/04/2019 Fontawesome Pro [5.5.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.5.0)
+- 03/08/2018 Fontawesome Pro [5.0.13](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.0.13)
 
 ## Usage
 
