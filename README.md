@@ -2,7 +2,7 @@
 
 ## Installation
 
-Via Composer
+Via Composer For LARAVEL
 
 ``` bash
 $ composer require cv-bud/fa-pro
