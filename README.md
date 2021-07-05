@@ -71,24 +71,29 @@ Within the download you'll find the following directories and files, logically g
 - 26/04/2019 Fontawesome Pro [5.5.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.5.0)
 - 03/08/2018 Fontawesome Pro [5.0.13](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.0.13)
 
-## Usage
+## Usage Local Assets
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- CSS -->
   <link rel="stylesheet" href="css/all.min.css">
-  <title>Document</title>
-</head>
-<body>
   
-  
+  <!-- Javascript -->
   <script src="js/all.min.js"></script>
-</body>
-</html>
+
 ```
+
+## Usage Online Assets
+
+```html
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
+  
+  <!-- Javascript -->
+  <script src="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/js/all.min.js"></script>
+
+```
+
+- Make url online assets [raw.githack.com](http://raw.githack.com/)
 
 
 <h1>
