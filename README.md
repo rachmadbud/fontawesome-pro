@@ -82,7 +82,7 @@ Within the download you'll find the following directories and files, logically g
 
 ```
 
-## Usage Online Assets
+## CDN
 
 ```html
   <!-- CSS -->
