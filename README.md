@@ -38,8 +38,8 @@ Within the download you'll find the following directories and files, logically g
     │   ├── svg-with-js.css
     │   ├── svg-with-js.min.css
     │   ├── v4-shims.css
-    │   └── v4-shims.min.css
-    └── js/
+    │   └── v4-shims.min.css 
+    └── js/ 
         ├── all.js
         ├── all.min.js
         ├── brands.js
@@ -87,6 +87,7 @@ Within the download you'll find the following directories and files, logically g
 ```html
   <!-- CSS -->
   <link rel="stylesheet" href="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/css/all.css">
+  
   
   <!-- Javascript -->
   <script src="https://raw.githack.com/mrbudbud/fontawesome-pro/master/src/js/all.min.js"></script>
